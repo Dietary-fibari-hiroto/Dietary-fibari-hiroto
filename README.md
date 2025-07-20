@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu_1357prog&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dietary-fibari-hirotoprog&layout=compact&langs_count=8)
 
 
 <!--
