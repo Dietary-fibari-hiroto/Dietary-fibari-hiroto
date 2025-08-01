@@ -44,13 +44,6 @@ Always exploring ways to make tech more helpful and delightful. 🚀
 
 ---
 
-## 🔧 Tech Stack
-- 🌐 Frontend: React, Tailwind CSS, TypeScript, JavaScript
-- 🔩 Backend: Node.js, Express, NestJS, MySQL
-- 🔒 Security: RBAC, JWT, HTTPS
-- ☁️ Infra: VPS (さくらVPS), AWS移転予定
-
----
 
 ## 📊 GitHub Stats
 
@@ -72,8 +65,8 @@ Always exploring ways to make tech more helpful and delightful. 🚀
 
 ## 📝 About Me
 
-- 🏫 Learning: CI/CD, コンテナ技術 (Docker, etc.)
-- 💡 Interests: カメラ・UX・言語学・AI倫理
+- 🏫 Learning: CI/CD, 
+- 💡 Interests: カメラ・UX・言語学
 - 📫 Contact: GitHub Issues や SNSで気軽にどうぞ！
 
 ---
