@@ -65,9 +65,7 @@ Always exploring ways to make tech more helpful and delightful. 🚀
 
 ## 📝 About Me
 
-- 🏫 Learning: CI/CD, 
-- 💡 Interests: カメラ・UX・言語学
-- 📫 Contact: GitHub Issues や SNSで気軽にどうぞ！
+- 💡 Interests: カメラ・UX
 
 ---
 
