@@ -1,7 +1,7 @@
 # 🌟 Hi there, I'm Hiroto! (a.k.a. Dietary-fibari-hiroto)
 
 こんちは！ひろとです！！！
-サーバーサイド、フロントエンドを勉強中です！
+「サーバーサイド、フロントエンド、Windowsソフトウェア、組込み(ESP32)」を勉強中です！
 
 Welcome to my GitHub profile! I'm currently working on full-stack web applications and AI-integrated services.  
 Always exploring ways to make tech more helpful and delightful. 🚀
