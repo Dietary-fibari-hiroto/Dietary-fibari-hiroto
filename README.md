@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm currently working on full-stack web applicatio
 Always exploring ways to make tech more helpful and delightful. 🚀
 <p align="center">
   <!-- フレームワーク・プラットフォーム -->
+    <img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" alt=".NET" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -14,7 +15,7 @@ Always exploring ways to make tech more helpful and delightful. 🚀
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Windows_logo_-_2012.svg" alt="WinUI" width="40" height="40"/>
 </p>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=Blazor&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
