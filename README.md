@@ -13,6 +13,7 @@ Always exploring ways to make tech more helpful and delightful. 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="MAUI" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Windows_logo_-_2012.svg" alt="WinUI" width="40" height="40"/>
+    <img src="https://cdn.sanity.io/images/3do82whm/next/1c2aa4d10fe71c23d7a36f69fc11c419c5f4ac35-1000x667.png?w=720&h=480&fit=clip&auto=format" alt=".Astro" width="40" height="40"/>
 </p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=Blazor&logoColor=white" /></a>
