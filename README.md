@@ -49,11 +49,14 @@ Always exploring ways to make tech more helpful and delightful. 🚀
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dietary-fibari-hiroto&layout=compact&langs_count=8)
+### 🌈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dietary-fibari-hiroto&layout=compact&langs_count=8&hide_border=true)
 
-![Hiroto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dietary-fibari-hiroto&show_icons=true&theme=tokyonight)
+### 🧬 Hiroto's GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dietary-fibari-hiroto&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Hiroto's GitHub Streak](https://streak-stats.demolab.com?user=Dietary-fibari-hiroto&theme=tokyonight)](https://git.io/streak-stats)
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dietary-fibari-hiroto&theme=tokyonight&hide_border=true)
 
 ---
 
