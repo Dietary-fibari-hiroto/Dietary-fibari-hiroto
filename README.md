@@ -83,4 +83,27 @@ I’m working on full-stack web apps and AI-integrated services — always explo
 
 ---
 
+## 🌐 現行のプロジェクト
+
+<p align="center">
+
+  <a href="https://dawn-waiting.com" target="_blank">
+    ポートフォリオ — dawn-waiting.com
+  </a><br/>
+
+  <a href="https://hibi.dawn-waiting.com" target="_blank">
+    日々写真館 — hibi.dawn-waiting.com
+  </a><br/>
+
+  <a href="https://duskshift.dawn-waiting.com" target="_blank">
+    DuskShift — duskshift.dawn-waiting.com
+  </a><br/>
+
+  <a href="https://rumos.dawn-waiting.com" target="_blank">
+    Rumos — rumos.dawn-waiting.com
+  </a>
+
+</p>
+
+
 _Thanks for stopping by!_ ✨
